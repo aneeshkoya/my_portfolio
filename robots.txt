@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://aneeshkoya.github.io/my_portfolio/sitemap.xml
