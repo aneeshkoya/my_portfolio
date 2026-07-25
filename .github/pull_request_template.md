@@ -4,9 +4,10 @@
 
 ## Validation
 
-- [ ] `npm run lint`
-- [ ] `npm run type-check`
-- [ ] `npm run build`
+- [ ] Open `index.html` locally
+- [ ] Check desktop, tablet and mobile layouts
+- [ ] Confirm internal links resolve
+- [ ] Confirm no private documents or secrets are committed
 
 ## Content Integrity
 
